@@ -13,7 +13,7 @@ I am a cybersecurity enthusiast. I love protecting data, networks, organizations
 
 - 🔭 I am looking forward to practicing what I have learned on platforms like TryHackMe and Hack The Box to become a cybersecurity expert.
 - 🌱 I’m currently learning Bash Scripting, And I will start practicing and participating in CTFs (Capture The Flag competitions).
-- - 💬 Ask me about cybersecurity, and I would love to hear more about it  . 
+- 💬 Ask me about cybersecurity, and I would love to hear more about it  . 
 - 👯 I am also looking forward to connecting with people to learn more about the cybersecurity industry.
 - 🤔 I’m looking for help with learning more and collaborating with people in the Cybersecurity space.
 - 😄 Pronouns: He/Him
