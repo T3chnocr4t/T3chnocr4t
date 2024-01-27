@@ -37,7 +37,7 @@ I am also an aspiring penetration tester, so I want to start by learning about w
 
 ### Let's Connect :nerd_face:
  
-<a href="https://twitter.com/T3chnocr4t">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://medium.com/@T3chnocr4t">![Medium(My Writing Portfolio)](https://img.shields.io/badge/Medium-008000?style=for-the-badge&logo=linktree&logoColor=white)</a> <a href="https://www.Instagram.com/T3chnocr4t/">![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white)</a> <a 
+<a href="https://twitter.com/T3chnocr4t">![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a> <a href="https://medium.com/@T3chnocr4t">![Medium(My Writing Portfolio)](https://img.shields.io/badge/Medium-008000?style=for-the-badge&logo=linktree&logoColor=white)</a> <a href="https://www.Instagram.com/T3chnocr4t/">![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=freecodecamp&logoColor=white)</a> 
  
  #### I love to See how I am performing for the year. This is my Stats
  
