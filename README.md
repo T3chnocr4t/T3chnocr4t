@@ -6,7 +6,7 @@
 </p>
 
 
-One of the sayings I've heard as a cybersecurity analyst is, "People often say cybersecurity is like hiding your money under the mattress for safety," so that it confesses to you, but that is not quite right. As an aspiring cybersecurity analyst and pentester, I aim to protect networks by monitoring, responding to incidents, and managing vulnerabilities. I also strive to test systems by identifying and exploiting weaknesses to enhance security.
+One of the sayings I've heard as a cybersecurity analyst is, "People often say cybersecurity is like hiding your money under the mattress for safety😄," so that it confesses to you, but that is not quite right. As an aspiring cybersecurity analyst and pentester, I aim to protect networks by monitoring, responding to incidents, and managing vulnerabilities. I also strive to test systems by identifying and exploiting weaknesses to enhance security.
 ### A little Introduction About Myself
 
 I am a cybersecurity enthusiast. I love protecting data, networks, organizations, and people. I don't know everything, but I've always aspired to learn more. I've carefully studied Linux, networking, and Security+.
