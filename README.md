@@ -1,3 +1,7 @@
+![nnnn](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/3b1e7b4f-f20a-4854-b9c0-e834e5901350)
+
+
+
 ###                                                                       Hola 👋, I'm T3chnocr4t :nerd_face:.
 
 
