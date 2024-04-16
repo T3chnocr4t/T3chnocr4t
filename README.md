@@ -1,4 +1,5 @@
-![nnnn](https://github.com/T3chnocr4t/T3chnocr4t/assets/115868619/3b1e7b4f-f20a-4854-b9c0-e834e5901350)
+![GLPy_OcW4AA6uL6](https://github.com/rng70/TryHackMe-Roadmap/assets/115868619/9f8c045b-1b9a-483b-9aee-fedb2d82ffeb)
+
 
 
 
