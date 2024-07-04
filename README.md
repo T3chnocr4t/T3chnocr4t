@@ -1,7 +1,4 @@
-![GLPy_OcW4AA6uL6](https://github.com/rng70/TryHackMe-Roadmap/assets/115868619/9f8c045b-1b9a-483b-9aee-fedb2d82ffeb)
-
-
-
+***
 
 ###                                                                       Hola 👋, I'm T3chnocr4t :nerd_face:.
 
@@ -13,6 +10,10 @@
 
 One of the sayings I've heard as a cybersecurity is, "People often say cybersecurity is like hiding your money under the mattress for safety😄," so that it confesses to you, but that is not quite right. As a cybersecurity enthusiast and aspiring security researcher, I aim to protect networks by monitoring, responding to incidents, and managing vulnerabilities. I also strive to test systems by identifying and exploiting weaknesses to enhance security.
 ### A little Introduction About Myself
+
+
+![df132ad95c07417e5d08f2f35768f8b4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/edac6c50-916b-403f-9690-e711262db3d6)
+
 
 I am a cybersecurity enthusiast. I love protecting data, networks, organizations, and people. I don't know everything, but I've always aspired to learn more. I've carefully studied Linux, networking, and Security+.
 
