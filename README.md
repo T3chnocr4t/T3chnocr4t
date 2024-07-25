@@ -12,7 +12,7 @@ One of the sayings I've heard as a cybersecurity is, "People often say cybersecu
 ### A little Introduction About Myself
 
 
-![df132ad95c07417e5d08f2f35768f8b4](https://github.com/T3chnocr4t/T3chnocr4t.github.io/assets/115868619/edac6c50-916b-403f-9690-e711262db3d6)
+![spider-man-spiderverse](https://github.com/user-attachments/assets/921525bb-82c4-44d7-8daf-031f3674d92c)
 
 
 I am a cybersecurity enthusiast. I love protecting data, networks, organizations, and people. I don't know everything, but I've always aspired to learn more. I've carefully studied Linux, networking, and Security+.
