@@ -1,4 +1,6 @@
 ***
+![my cover (1)](https://github.com/user-attachments/assets/dd4bf7cf-7283-4e4f-b98d-9b02244feb5b)
+
 
 ###                                                                       Hola 👋, I'm T3chnocr4t :nerd_face:.
 
