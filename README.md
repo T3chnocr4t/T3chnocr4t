@@ -26,3 +26,4 @@
  #### I love to See how I am performing for the year. This is my Stats
 
 ![Yusuph's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3chnocr4t&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T3chnocr4t&layout=donut)](https://github.com/T3chnocr4t/github-readme-stats)
