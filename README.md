@@ -1,33 +1,12 @@
 ***
+
 ![my cover (1)](https://github.com/user-attachments/assets/dd4bf7cf-7283-4e4f-b98d-9b02244feb5b)
 
+***
 
-###                                                                       Hola 👋, I'm T3chnocr4t :nerd_face:.
+## **_What’s good, fam? Am T3chnocr4t_**
 
-
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Cyber+Security+Analysts;Aspiring+Security+Researcher." /></a>
-</p>
-
-
-One of the sayings I've heard as a cybersecurity is, "People often say cybersecurity is like hiding your money under the mattress for safety😄," so that it confesses to you, but that is not quite right. As a cybersecurity enthusiast and aspiring security researcher, I aim to protect networks by monitoring, responding to incidents, and managing vulnerabilities. I also strive to test systems by identifying and exploiting weaknesses to enhance security.
-### A little Introduction About Myself
-
-
-![spider-man-spiderverse](https://github.com/user-attachments/assets/921525bb-82c4-44d7-8daf-031f3674d92c)
-
-
-I am a cybersecurity enthusiast. I love protecting data, networks, organizations, and people. I don't know everything, but I've always aspired to learn more. I've carefully studied Linux, networking, and Security+.
-
-- 🔭 I am looking forward to practicing what I have learned on platforms like TryHackMe and Hack The Box to become a cybersecurity expert.
-- 🌱 I am presently engaged in learning, practicing, and participating in Capture The Flag (CTF) competitions to enhance and refine my skills in cybersecurity.
-- 💬 Ask me about cybersecurity, and I would love to hear more about it  . 
-- 👯 I am also looking forward to connecting with people to learn more about the cybersecurity industry.
-- 🤔 I’m looking for help with learning more and collaborating with people in the Cybersecurity space.
-- 😄 Pronouns: He/Him
-- ⚡ Nickname: I'm T3chnocr4t
- 
-As an aspiring security researcher, I am passionate about identifying vulnerabilities, developing solutions, and staying ahead of threats in cybersecurity. I contribute to the community, engage in ethical hacking and penetration testing, and strive to advance the field through research and innovation. My dedication stems from a commitment to protecting digital assets and preserving the integrity of information systems in an evolving digital landscape.
+#### *Yo, what’s up? I’m Yusuf, your go-to security researcher. I’m out here hustlin’ to spot those vulnerabilities in software and APIs, makin’ sure they get reported and fixed. Gotta keep it tight in this digital game!*
 
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 32px> 
